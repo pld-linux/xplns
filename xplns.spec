@@ -62,6 +62,6 @@ rm -rf $RPM_BUILD_ROOT
 %doc usr/share/doc/xplns-%{version}/README
 %attr(755,root,root) %{_bindir}/*
 %{_appdefsdir}/*
-%{_desktopdir}/*
+%{_desktopdir}/*.desktop
 %{_datadir}/%{name}
 %{_pixmapsdir}/*

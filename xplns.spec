@@ -1,5 +1,5 @@
 Summary:	Desktop astronomy simulation
-Summary(pl):	Symulacja niebia
+Summary(pl):	Symulacja nieba
 Name:		xplns
 Version:	3.3.1
 Release:	1

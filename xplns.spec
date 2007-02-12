@@ -1,5 +1,5 @@
 Summary:	Desktop astronomy simulation
-Summary(pl):	Symulacja nieba
+Summary(pl.UTF-8):   Symulacja nieba
 Name:		xplns
 Version:	3.3.1
 Release:	1
@@ -29,7 +29,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Desktop astronomy simulation.
 
-%description -l pl
+%description -l pl.UTF-8
 Symulacja nieba.
 
 %prep

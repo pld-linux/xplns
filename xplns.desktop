@@ -1,9 +1,8 @@
 [Desktop Entry]
-Encoding=UTF-8
 Name=Xplns
 Comment=Desktop astronomy simulation
 Comment[pl]=Symulacja nieba
-Icon=Xplns.png
+Icon=Xplns
 Exec=xplns
 Terminal=false
 Type=Application
